@@ -1,6 +1,6 @@
 <h3> :man: &nbsp;About Me </h3>
 
-- 🧑 &nbsp; I'm **26 years old**;
+- 🧑 &nbsp; I'm **27 years old**;
 - 📚 &nbsp; I'm currently study **web development** and **English**;
 
 <h3> :rocket: &nbsp;My Skills </h3>
